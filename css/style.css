@@ -3,3 +3,22 @@ body {
     margin: 0;
     padding: 0;
 }
+
+
+body{
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.hero{
+    height: 90vh;
+
+    background-image:
+    linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)
+    ),
+    url('https://images.unsplash.com/photo-1516321318423-f06f85e504b3');
+
+    background-size: cover;
+    background-position: center;
+} 
